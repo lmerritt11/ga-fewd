@@ -1,0 +1,34 @@
+h1{
+  color: gray;
+  font-size: 50px;
+  font-family: aller;
+}
+
+
+h2{
+   color: gray;
+  font-size: 30px;
+  font-family: aller;
+}
+
+img{
+  height:350px;
+  width:550px;
+  box-shadow: 10px 10px 5px #888888;
+  border-radius: 10px;
+}
+
+p.smallfont{
+  font-size:10px;
+  font-family: aller;
+}
+
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;;
+}

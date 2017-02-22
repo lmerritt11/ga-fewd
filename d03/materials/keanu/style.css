@@ -1,0 +1,20 @@
+h1{
+  color: green; 
+  font-size: 50px;
+}
+
+p#purple{
+  color:purple;
+}
+
+.blue{
+  color:blue;
+}
+
+.favorite{
+  background-color:blue;
+}
+
+#keanu-and-sandra{
+  height:180px;
+}
