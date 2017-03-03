@@ -1,0 +1,71 @@
+h1, h2 {
+  display: inline-block;
+  margin: 0;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  padding: 10px 4px 10px 120px;
+  margin: 0;
+
+}
+
+h2{
+  padding-left: 6px;
+  font-size: 16px;
+  color: grey;
+}
+
+
+div.container{
+  width: 960px;
+}
+
+img{
+  width: 100%;
+  height:300px;
+  object-fit: cover;
+}
+
+div.cover-photo{
+  background-image: url('me.jpg');
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+
+}
+
+div.main{
+  width: 360px
+  margin: 0 auto;
+}
+
+div.main >p{
+  color: grey;
+  line-height: 18px;
+}
+
+a{ 
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: white;
+  padding: 10px 0;
+  margin-bottom: 10px;
+  text-align: center;
+
+   }
+
+   #email {
+    width: 100%;
+    padding-top: 10px;
+   }
+
+   #twitter, #medium, #pinterest{
+    margin-right: 15px;
+   }
+
+
+
+

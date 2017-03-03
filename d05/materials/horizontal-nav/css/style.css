@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+  font-color: #cccccc;
+  
+}
+
+
+.blacknav {
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+a {
+  color: #cccccc;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffffff;
+  background-color: #ff7401;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+}
+
+.spacing {
+  padding-right: 20px;
+  display: inline-block;
+}
