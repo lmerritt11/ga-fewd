@@ -20,6 +20,7 @@ h2{
 
 div.container{
   width: 960px;
+  margin: 0 auto;
 }
 
 img{
@@ -36,21 +37,22 @@ div.cover-photo{
 
 }
 
-div.main{
-  width: 360px
+div.main {
+  width: 360px;
   margin: 0 auto;
 }
 
-div.main >p{
+div.main > p {
   color: grey;
-  line-height: 18px;
+  line-height: 22px;
 }
 
 a{ 
   display: inline-block;
   text-decoration: none;
   color: white;
-  background-color: white;
+  background-color: blue;
+  width: 170px;
   padding: 10px 0;
   margin-bottom: 10px;
   text-align: center;
@@ -65,6 +67,14 @@ a{
    #twitter, #medium, #pinterest{
     margin-right: 15px;
    }
+
+
+   #footer{ 
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding-top: 36px;
+   padding-bottom: 10px; }
 
 
 

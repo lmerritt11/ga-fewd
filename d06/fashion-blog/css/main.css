@@ -1,0 +1,47 @@
+div.main{
+  align-content: left;
+  margin: 20px 200px 20px 20px;
+  font-family: 'Lato', sans-serif;
+
+}
+
+h1{
+  font-size: 50px;
+  color: maroon;
+
+}
+
+h2{
+  font-size: 30px;
+  color: black;
+}
+
+.nav { 
+  color: #dddddd;
+  margin-right: 6px;
+ }
+
+.nav:hover {
+  background-color: purple;
+  margin-right: 6px;
+}
+
+.date{
+  color: #cccccc
+
+}
+
+h4{
+  text-align: right;
+  color: red;
+}
+
+.footerlink{
+  margin-top: 20px;
+  margin-right: 5px;
+}
+
+#footerlink{
+  margin-top: 500px;
+}
+
