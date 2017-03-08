@@ -17,13 +17,20 @@ h2{
 }
 
 .nav { 
-  color: #dddddd;
-  margin-right: 6px;
+      padding-top: 20px;
+    color: #dddddd;
+    margin-right: 6px;
+    padding-bottom: 20px;
+    background-color: black;
+    padding-left: 10px;
+    display: inline-block;
+    padding-right: 10px;
+    width: 100px;
+    text-align: center;
  }
 
 .nav:hover {
   background-color: purple;
-  margin-right: 6px;
 }
 
 .date{
