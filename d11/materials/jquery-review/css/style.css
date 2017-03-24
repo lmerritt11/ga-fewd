@@ -1,0 +1,17 @@
+
+#left-box{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+}
+
+#right-box{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+}
+
+.bigger{
+  height: 500px;
+  width: 500px;
+}
