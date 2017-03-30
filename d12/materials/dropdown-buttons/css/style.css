@@ -1,0 +1,167 @@
+
+.button-file{
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  background-color:white;
+  border: lightgray solid 2px;
+
+ font-size: 15px;
+  text-align: center;
+  outline:none;
+}
+
+.button-file:focus:hover{
+ height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: lightgray;
+  border: lightgray solid 2px;
+  outline: none;
+  font-size: 15px;
+  text-align: center;
+}
+
+.button-edit{
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  background-color:white;
+  border: lightgray solid 2px;
+
+ font-size: 15px;
+  text-align: center;
+  outline:none;
+}
+
+.button-edit:focus:hover{
+ height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: lightgray;
+  border: lightgray solid 2px;
+  outline: none;
+  font-size: 15px;
+  text-align: center;
+}
+
+
+.down-arrow{
+  font-size:10px;
+  padding-left:5px;
+}
+
+h1{
+  position: relative;
+}
+
+.dropdown-file{
+  height: 80px;
+  width: 160px;
+  border-radius: 10px;
+  background-color:white;
+  border:lightgray solid 2px;
+  display: none;
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  top: 60px;
+  padding: 5px 0px 0px 0px;
+  outline:none;
+}
+
+.open{
+  background-color: white;
+  font-size: 15px;
+  text-align: left;
+  padding-left:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+
+}
+
+.open:hover{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+.open:focus{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+
+.save{
+  background-color: white;
+
+  font-size: 15px;
+  text-align: left;
+  padding-left: 10px;
+  padding-top:10px;
+}
+
+.save:hover{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+.save:focus{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+
+a{
+  text-decoration:none;
+}
+
+
+.dropdown-edit{
+  height: 80px;
+  width: 160px;
+  border-radius: 10px;
+  background-color:white;
+  border:lightgray solid 2px;
+  display: none;
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  top: 60px;
+  padding: 5px 0px 0px 0px;
+  outline:none;
+}
+
+.cut{
+  background-color: white;
+  font-size: 15px;
+  text-align: left;
+  padding-left:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+
+}
+
+.cut:hover{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+.cut:focus{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+
+.copy{
+  background-color: white;
+
+  font-size: 15px;
+  text-align: left;
+  padding-left: 10px;
+  padding-top:10px;
+}
+
+.copy:hover{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+.copy:focus{
+  background-color:lightgray;
+  padding: 10px 115px 10px 10px;
+}
+
+
